@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\bin\Debug\OOPLab2.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\bin\Debug\OOPLab2.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\bin\Debug\OOPLab2.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\obj\Debug\OOPLab2.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\obj\Debug\OOPLab2.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\obj\Debug\OOPLab2.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\obj\Debug\OOPLab2.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek2\OOPLab2\OOPLab2\obj\Debug\OOPLab2.pdb
